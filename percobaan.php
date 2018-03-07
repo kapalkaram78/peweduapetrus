@@ -1,3 +1,4 @@
 <?php 
-echo "muke kau biru";
+echo "muke kau biru muda";
+echo "nama saya iqbal";
  ?>
