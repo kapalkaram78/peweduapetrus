@@ -1,5 +1,5 @@
 <?php 
-namespace baru;
+namespace src;
 class view
 {
 	public function render()
