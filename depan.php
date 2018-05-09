@@ -12,4 +12,6 @@ $v->render();
 echo "<br>";
 $s = new \src\mahasiswa();
 $s->test();
+echo "<br>";
+\model\Mahasiswa::munculkanNama();
  ?>
