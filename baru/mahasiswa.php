@@ -1,6 +1,5 @@
 <?php 
-namespace mahasiswa;
-
+namespace baru;
 class mahasiswa
 {
 	
