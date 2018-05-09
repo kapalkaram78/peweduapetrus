@@ -14,4 +14,6 @@ class Mahasiswa extends Model{
 	}
 }
 
+$santi = new Mahasiswa();
+echo $santi->munculkanNama();
  ?>
