@@ -1,14 +1,14 @@
 <?php 
 namespace model;
 
-class model{
+class Model{
 	public $config;
 }
-class Mahasiswa extends model{
+class Mahasiswa extends Model{
 	public $nim;
 	public $ipk;
 
-	public function munculkan_nama()
+	public function munculkanNama()
 	{
 		echo "Halo saya Sisfo";
 	}
