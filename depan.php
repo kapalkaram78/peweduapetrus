@@ -7,9 +7,9 @@ spl_autoload_register(function($class) {
 $v = new \app\view();
 $v->render();
 echo "<br>";
-$v = new \baru\view();
+$v = new \src\view();
 $v->render();
 echo "<br>";
-$s = new \baru\mahasiswa();
+$s = new \src\mahasiswa();
 $s->test();
  ?>
